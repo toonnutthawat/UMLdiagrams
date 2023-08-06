@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class Player {
+public class Player {
+    private String name;
+
+    public void takeTurn(){}
+
+    public Player(String name) {
+        this.name = name;
+    }
 }

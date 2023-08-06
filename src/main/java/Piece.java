@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Piece {
+public class Piece {
+    public Piece() {
+    }
 }
