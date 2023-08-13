@@ -4,4 +4,6 @@ public class Square {
     public Square(String name) {
         this.name = name;
     }
+
+
 }
